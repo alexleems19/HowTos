@@ -1,5 +1,7 @@
 # How to deploy a Spark cluster with ESP using python 3
 
+Author: Alexander Lee
+
 ### Contents
 [**Purpose**][Purpose]<br>
 [**Steps**][Steps]<br>
