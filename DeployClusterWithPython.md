@@ -148,21 +148,21 @@ Once you click on **Add a schedule**, it will show two options.
 
 Let's first pick the first option **Link a schedule to your runbook** then click on **Add a schedule**.
 
-A side section will come up.  Here you will need to decide on when the Runbook will run.
+A side section will come up.  **Here you change the time to the end of your shift**.  It will use this Runbook to delete your cluster.
 
 Example:
 
-![Add Schedule Runbook](https://cssexamplesallee.blob.core.windows.net/markdownimages/configSchedule.png)
+![Configure Time](https://cssexamplesallee.blob.core.windows.net/markdownimages/configSchedule.png)
 
 Once you have decided on the Schedule click on Create at the bottom of the section.
 
 After this it will bring you back to the Schedule Runbook.  Here we will now click on **Configure parameters and run settings**.
 
-![Add Schedule Runbook](https://cssexamplesallee.blob.core.windows.net/markdownimages/parametersSchedule.png)
+![Click Cluster parameters Runbook](https://cssexamplesallee.blob.core.windows.net/markdownimages/parametersSchedule.png)
 
 Put in your cluster name that will be created using the Python Runbook and click on **OK** at the bottom.
 
-![Add Schedule Runbook](https://cssexamplesallee.blob.core.windows.net/markdownimages/clusterParameters.png)
+![Add Cluster name Runbook](https://cssexamplesallee.blob.core.windows.net/markdownimages/clusterParameters.png)
 
 After this is completed, you will be brought back to the **Schedule Runbook**.  Click on Ok at the bottom.
 
