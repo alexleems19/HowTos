@@ -8,7 +8,7 @@ Author: Alexander Lee
 [**Prerequisite**][Prerequisite]<br>
 [**Applying Python Script**](#applying-the-python-script-to-your-runbook)<br>
 [**Running your Runbook**](#running-the-runbook)<br>
-[**Set Time to live for cluster**](#setting-ttl-for-cluster)
+[**Setting Time to live for cluster**](#setting-time-to-live-for-cluster)
 
 
 
@@ -88,7 +88,7 @@ In this final section, you will Run your Runbook to deploy your cluster.
 
 ![Start and Status](https://cssexamplesallee.blob.core.windows.net/markdownimages/StartandStatus.png)
 
-## Setting TTL for cluster
+## Setting Time To Live for cluster
 
 
 [Purpose]: #Purpose
