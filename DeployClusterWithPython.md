@@ -168,7 +168,7 @@ You will be returned to the Delete Runbook and now you will see an added Schedul
 Once all this is completed you have successfully created an Automated Runbook to create an ESP Spark cluster.  This can be simulated for your standard Subscription as well.
 > There are a few changes as you will not need AADDS.  If you have any questions you can contact allee@microsoft.com
 
-##Thanks for reading this HowTo
+## Thanks for reading this HowTo
 
 [Purpose]: #Purpose
 
