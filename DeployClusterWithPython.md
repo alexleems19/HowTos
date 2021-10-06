@@ -8,7 +8,7 @@ Author: Alexander Lee
 [**Prerequisite**][Prerequisite]<br>
 [**Applying Python Script**](#applying-the-python-script-to-your-runbook)<br>
 [**Running your Runbook**](#running-the-runbook)<br>
-[**Set Time to live for cluster**](#setting-ttl-forcluster)
+[**Set Time to live for cluster**](#setting-ttl-for-cluster)
 
 
 
