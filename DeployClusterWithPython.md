@@ -22,7 +22,8 @@ Author: Alexander Lee
 Step 1: (Prerequisite) Install all packages to your Runbook.<br>
 Step 2: Copy provided python script.<br>
 Step 3: Replace information in the python script.<br>
-Step 4: Run the Runbook.
+Step 4: Run the Runbook.<br>
+Step 5: Create a schedule to delete cluster.
 
 
 ### Prerequisite:
