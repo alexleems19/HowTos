@@ -27,6 +27,7 @@ Step 5: Create a schedule to delete cluster.
 
 
 ### Prerequisite:
+[Return to Contents](#Contents)
 > Python packages needs to be added to the runbook before running the python script.  In order to add packages you can follow this document.  Below are also images of how to do this.
 
 Adding Python packages to runbook:<br>
@@ -61,7 +62,7 @@ In the search bar you will need to look for these packages.  **See number 3 in *
 Once you have added in all four packages to your Runbook, you are now ready to add the python script to your Runbook.
 
 ## Applying the Python script to your Runbook.
-
+[Return to Contents](#Contents)
 >Once you have completed the Prerequisite you can now apply the Python script to your Runbook.
 Let's create a new Runbook to use it for a Python script.  To create a new Runbook click on Runbooks on the left hand side.
 
@@ -84,13 +85,13 @@ Once you have downloaded the python script and made the appropriate adjustments,
 ![Runbook Edit Button](https://cssexamplesallee.blob.core.windows.net/markdownimages/RunbookPublish.png)
 
 ## Running the Runbook
-
+[Return to Contents](#Contents)
 >In this final section, you will Run your Runbook to deploy your cluster.
 
 ![Start and Status](https://cssexamplesallee.blob.core.windows.net/markdownimages/StartandStatus.png)
 
 ## Setting Time To Live for cluster
-
+[Return to Contents](#Contents)
 >Once you have tested your cluster creation using the Python Script and it is successful, you need to create a new Runbook.
 This new Runbook will delete the cluster with the provided time.
 
