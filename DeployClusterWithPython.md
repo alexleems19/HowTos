@@ -6,9 +6,9 @@ Author: Alexander Lee
 [**Purpose**][Purpose]<br>
 [**Steps**][Steps]<br>
 [**Prerequisite**][Prerequisite]<br>
-[**Applying Python Script**][#Applying-the-Python-script-to-your-Runbook]<br>
-[**Running your Runbook**][Running-the-Runbook]<br>
-[**Set Time to live for cluster**][Setting TTL for cluster]
+[**Applying Python Script**](#Applying-the-Python-script-to-your-Runbook)<br>
+[**Running your Runbook**](Running-the-Runbook)<br>
+[**Set Time to live for cluster**](Setting TTL for cluster)
 
 
 
