@@ -6,8 +6,10 @@ Author: Alexander Lee
 [**Purpose**][Purpose]<br>
 [**Steps**][Steps]<br>
 [**Prerequisite**][Prerequisite]<br>
-[**Applying Python Script**][Applying the Python script to your Runbook]<br>
-[**Running your Runbook**][Running the Runbook]
+[**Applying Python Script**](#Applying the Python script to your Runbook)<br>
+[**Running your Runbook**](#Running the Runbook)<br>
+
+
 
 ### Purpose
 > The purpose of this HowTo is to show CSS Support engineers how to deploy a cluster using python SDK.  In this HowTo we will be using Python 3 to create a spark cluster.  We will also be using the latest modules to deploy the cluster.
@@ -69,9 +71,9 @@ After clicking on **Edit** a new section will come up.
 
 ![Runbook Edit Button](https://cssexamplesallee.blob.core.windows.net/markdownimages/RunbookEditPage.png)
 
-You will need to download this example script and replace your information into '' and <username>
+You will need to download this example script and replace your information into **' '** and **< username >**
 
-The scrip is located here: https://cssexamplesallee.blob.core.windows.net/examplepythonscripts/pythonscripts/pythonClusterCreationExample.py
+The script is located here: https://cssexamplesallee.blob.core.windows.net/examplepythonscripts/pythonscripts/pythonClusterCreationExample.py
 
 Once you have downloaded the python script and made the appropriate adjustments, you can Publish.
 
