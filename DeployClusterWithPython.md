@@ -68,6 +68,10 @@ Let's create a new Runbook to use it for a Python script.  To create a new Runbo
 
 ![Runbook Creation](https://cssexamplesallee.blob.core.windows.net/markdownimages/RunbookCreation.png)
 
+Choose **Runbook Type** Python 3
+
+![Runbook Creation](https://cssexamplesallee.blob.core.windows.net/markdownimages/pythonRunbook.png)
+
 To apply the Python script to your Runbook you need to click on **Edit**.
 
 ![Runbook Edit Button](https://cssexamplesallee.blob.core.windows.net/markdownimages/RunbookEdit.png)
