@@ -6,9 +6,9 @@ Author: Alexander Lee
 [**Purpose**][Purpose]<br>
 [**Steps**][Steps]<br>
 [**Prerequisite**][Prerequisite]<br>
-[**Applying Python Script**](#Applying-the-Python-script-to-your-Runbook)<br>
-[**Running your Runbook**](Running-the-Runbook)<br>
-[**Set Time to live for cluster**](Setting TTL for cluster)
+[**Applying Python Script**](#applying-the-python-script-to-your-runbook)<br>
+[**Running your Runbook**](running-the-runbook)<br>
+[**Set Time to live for cluster**](setting-ttl-forcluster)
 
 
 
@@ -99,7 +99,4 @@ In this final section, you will Run your Runbook to deploy your cluster.
 
 [Applying the Python script to your Runbook.]: #Applying-the-Python-script-to-your-Runbook
 
-[Running your Runbook]: #Running the Runbook
-
-[Set Time to live for cluster]: #Setting TTL for cluster
 
