@@ -6,8 +6,11 @@ Author: Alexander Lee
 [**Purpose**][Purpose]<br>
 [**Steps**][Steps]<br>
 [**Prerequisite**][Prerequisite]<br>
-[**Applying Python Script**](#Applying the Python script to your Runbook)<br>
-[**Running your Runbook**](#Running the Runbook)<br>
+[**Applying Python Script**][#Applying-the-Python-script-to-your-Runbook]<br>
+[**Running your Runbook**][Running-the-Runbook]<br>
+[**Set Time to live for cluster**][Setting TTL for cluster]
+
+
 
 
 
@@ -15,7 +18,7 @@ Author: Alexander Lee
 > The purpose of this HowTo is to show CSS Support engineers how to deploy a cluster using python SDK.  In this HowTo we will be using Python 3 to create a spark cluster.  We will also be using the latest modules to deploy the cluster.
 
 ### Steps
-Step 1: (Prerequistie) Install all packages to your Runbook.<br>
+Step 1: (Prerequisite) Install all packages to your Runbook.<br>
 Step 2: Copy provided python script.<br>
 Step 3: Replace information in the python script.<br>
 Step 4: Run the Runbook.
@@ -85,6 +88,7 @@ In this final section, you will Run your Runbook to deploy your cluster.
 
 ![Start and Status](https://cssexamplesallee.blob.core.windows.net/markdownimages/StartandStatus.png)
 
+## Setting TTL for cluster
 
 
 [Purpose]: #Purpose
@@ -94,4 +98,8 @@ In this final section, you will Run your Runbook to deploy your cluster.
 [Prerequisite]: #Prerequisite
 
 [Applying the Python script to your Runbook.]: #Applying-the-Python-script-to-your-Runbook
+
+[Running your Runbook]: #Running the Runbook
+
+[Set Time to live for cluster]: #Setting TTL for cluster
 
